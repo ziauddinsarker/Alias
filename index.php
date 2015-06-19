@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-		<div class=" row" id="contentwrap">
+		<div class="row" id="contentwrap">
 			<div class="col-md-8">
 				<div id="content">	
                <?php dynamic_content_gallery(); ?>		

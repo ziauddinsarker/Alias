@@ -105,7 +105,7 @@
 						
 					</div>
 					
-					<div class="col-md-7 last">
+					<div class="col-md-7 hidden-xs last">
                         <div style="padding: 40px 0 0 0; text-align:center;">
 						  <?php echo get_theme_option('ad_header'); ?>
                         </div>

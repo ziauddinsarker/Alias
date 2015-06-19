@@ -53,7 +53,7 @@ $options = array (
 			"std" => "true",
 			"type" => "checkbox"),
 		array(	"name" => "Featured Posts Category", 
- "desc" => "Last 5 posts form the selected categoey will be listed as featured at homepage. <br />The selected category should contain at last 2 posts with images. <br /> <br /> <b>How to add images to your featured posts slideshow?</b> <br />
+ "desc" => "Last 5 posts form the selected category will be listed as featured at homepage. <br />The selected category should contain at last 2 posts with images. <br /> <br /> <b>How to add images to your featured posts slideshow?</b> <br />
             <b>&raquo;</b> If you are using WordPress version 2.9 and above: Just set \"Post Thumbnail\" when adding new post for the posts in selected category above. <br /> 
             <b>&raquo;</b> If you are using WordPress version under 2.9  you have to add custom fields in each post on the  category  you set as featured category. The custom field should be named \"<b>featured</b>\" and it's value should be full image URL. <a href=\"http://newwpthemes.com/public/featured_custom_field.jpg\" target=\"_blank\">Click here</a> for a screenshot. <br /> <br />
             In both situation, the image sizes should be: Width: <b>620 px</b>. Height: <b>320 px.</b>",

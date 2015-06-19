@@ -147,9 +147,9 @@ a:hover {
 #navcontainer {
 	height: 40px;
 	display: block;
-	overflow: hidden;
+	overflow: none;
     border-bottom: 6px solid #4AAE14;
-    padding-left: 10px;
+    padding-left: 15px;
 	}
 
 #navcontainer .current-cat a {
@@ -633,4 +633,17 @@ div.aligncenter {
     border: 1px solid #E3E4E5;
     margin: 0 10px 10px 0;
     background-color: #F3F4F5;
+}
+
+#myGallery, #myGallerySet, #flickrGallery{
+	width:auto !important; 
+}
+
+#nav {
+	overflow: initial !important;
+    width: auto !important;
+}
+
+#nav li{
+	margin: -5px 3px 0 0 !important;
 }

@@ -1,6 +1,6 @@
 <?php get_header(); ?>
-<div class="span-24" id="contentwrap">
-	<div class="span-16">
+<div class="row" id="contentwrap">
+	<div class="col-md-8">
 		<div id="content">	
 
 			<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
